@@ -9,6 +9,6 @@
 
 .input:focus,
 .input:active {
-    outline: 2px solid #281aed;
+    outline: 2px solid #004d50;
     border-radius: 3px;
 }
