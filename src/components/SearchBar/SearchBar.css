@@ -1,0 +1,14 @@
+.button {
+    margin-left: 10px;
+}
+
+.input {
+    margin-left: 20px;
+    width: 30%;
+}
+
+.input:focus,
+.input:active {
+    outline: 2px solid #281aed;
+    border-radius: 3px;
+}

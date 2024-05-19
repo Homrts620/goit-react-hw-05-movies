@@ -1,0 +1,9 @@
+.primary {
+    font-size: 34px;
+    margin-left: 50px;
+    padding: 15px;
+}
+
+.list {
+    list-style: none;
+}
