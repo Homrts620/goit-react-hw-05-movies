@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/997.92253344.chunk.css","mappings":"AAAA,SACI,cAAe,CACf,gBAAiB,CACjB,YACJ,CAEA,MACI,eACJ","sources":["Pages/Home/Home.css"],"sourcesContent":[".primary {\n    font-size: 34px;\n    margin-left: 50px;\n    padding: 15px;\n}\n\n.list {\n    list-style: none;\n}"],"names":[],"sourceRoot":""}
